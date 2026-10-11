@@ -386,7 +386,7 @@ public class PresentationAvecSpring {
 
 ![Fichier config.xml et exécution](images/14-a13-config-xml.png)
 
-*Figure 14 : le fichier `config.xml`.*
+*Figure 13 : le fichier `config.xml`.*
 
 ### 6.4 Exécution
 
@@ -394,7 +394,7 @@ Résultat obtenu : `21.0`, avec `exit code 0`.
 
 ![Exécution de PresentationAvecSpring](images/15-a13-execution.png)
 
-*Figure 15 : exécution de `PresentationAvecSpring`.*
+*Figure 14 : exécution de `PresentationAvecSpring`.*
 
 ### 6.5 Questions
 
@@ -462,7 +462,7 @@ public class MetierIMP implements IMetier {
 |---|---|
 | ![DaoIMP annoté](images/16-a14-daoimp-annote.png) | ![MetierIMP annoté](images/17-a14-metierimp-annote.png) |
 
-*Figure 16 : `DaoIMP` (`@Repository`) et `MetierIMP` (`@Service`, `@Autowired`).*
+*Figure 15 : `DaoIMP` (`@Repository`) et `MetierIMP` (`@Service`, `@Autowired`).*
 
 ### 7.2 La classe `PresentationAvecAnnotation`
 
@@ -491,7 +491,7 @@ Résultat obtenu : `21.0`, avec `exit code 0`. Ici, le fichier `config.xml` n'es
 
 ![Exécution de PresentationAvecAnnotation](images/18-a14-execution.png)
 
-*Figure 17 : exécution de `PresentationAvecAnnotation`.*
+*Figure 16 : exécution de `PresentationAvecAnnotation`.*
 
 ### 7.4 Questions
 
