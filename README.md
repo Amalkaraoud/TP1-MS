@@ -343,10 +343,6 @@ Après le chargement de Maven, les bibliothèques Spring apparaissent dans *Exte
 
 *Figure 12 : le fichier `pom.xml` (début, puis fin).*
 
-![External Libraries](images/13c-external-libraries.png)
-
-*Figure 13 : bibliothèques Spring chargées par Maven.*
-
 ### 6.2 Le fichier `config.xml`
 
 Placé dans `src/main/resources` (le sujet parle de « package ressource » : il s'agit du dossier standard Maven `resources`) :
